@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ConversorCF
+comment0.text=\r\n\ Converte\ temp\ C\ em\ F\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ 2023/04/11\r\n
+comment1.params=titulo
+comment1.target=ConversorCF(java.lang.String)
+comment1.text=\r\n\ ConversorCF\ Construtor\r\n\r\n\ @param\ titulo\ String,\ nome\ da\ janela\r\n
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ actionPerformed\ -\ realiza\ o\ evento\r\n\r\n\ @param\ ae\ evento\ gerado\r\n
+numComments=3
