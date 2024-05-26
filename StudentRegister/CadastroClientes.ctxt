@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CadastroClientes
+comment0.text=\r\n\ Armazenador\ -\ classe\ para\ implementar\ operacoes\ de\ persistencia\ \r\n\ em\ memoria.\r\n\r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 05/2023\r\n
+comment1.params=
+comment1.target=CadastroClientes()
+comment1.text=\r\n\ CadastroClientes\ Construtor\ para\ armazenar\ objetos\ em\ memoria\r\n\r\n
+comment2.params=cliente
+comment2.target=void\ salvarCliente(ClienteAcad)
+comment2.text=\r\n\ salvarCliente\ em\ memoria\r\n\r\n\ @param\ client\ Cliente\ a\ ser\ adicionada\ no\ armazenador\r\n
+comment3.params=
+comment3.target=int\ getQtd()
+comment3.text=\r\n\ getQtd\r\n\r\n\ @return\ int,\ quantidade\ de\ clientes\ cadastrados\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ imprime\ dados\ do\ cadastro\r\n\r\n\ @return\ String\ com\ os\ clientes\r\n
+numComments=5

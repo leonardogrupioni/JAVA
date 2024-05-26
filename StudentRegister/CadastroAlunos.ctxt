@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CadastroAlunos
+comment0.text=\r\n\ Armazenador\ -\ classe\ para\ implementar\ operacoes\ de\ persistencia\ \r\n\ em\ memoria.\r\n\r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 05/2023\r\n
+comment1.params=
+comment1.target=CadastroAlunos()
+comment1.text=\r\n\ CadastroClientes\ Construtor\ para\ armazenar\ objetos\ em\ memoria\r\n\r\n
+comment2.params=aluno
+comment2.target=void\ adicionarAluno(Aluno)
+comment2.text=\r\n\ cadastrarAluno\ em\ memoria\r\n\r\n\ @param\ aluno\ Aluno\ a\ ser\ adicionada\ no\ armazenador\r\n
+comment3.params=ra
+comment3.target=boolean\ removerAluno(java.lang.String)
+comment3.text=\r\n\ M\u00E9\ remover\r\n\r\n\ @param\ ra\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment4.params=
+comment4.target=int\ getQtd()
+comment4.text=\r\n\ getQtd\r\n\r\n\ @return\ int,\ quantidade\ de\ alunos\ cadastrados\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\ imprime\ dados\ do\ cadastro\r\n\r\n\ @return\ String\ com\ os\ alunos\r\n
+numComments=6

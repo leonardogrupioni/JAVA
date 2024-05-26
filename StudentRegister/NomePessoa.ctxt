@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NomePessoa
+comment0.text=\r\n\ Armazena\ o\ nome\ de\ uma\ pessoa.\ Inverte\ nome\ e\ limpa\ espa\u00E7os\ extras\ \r\n\ (opera\u00E7oes\ herdados\ da\ classe\ pai).\r\n\ Retorna\ o\ nome\ da\ pessoa\ em\ formato\ de\ bibliografia\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ 2019/02/29\r\n
+comment1.params=nome
+comment1.target=NomePessoa(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment2.text=\r\n\ @return\ the\ nome\r\n
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment3.text=\r\n\ @param\ nome\ the\ nome\ to\ set\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNomeInvertido()
+comment4.text=\r\n\ Retorna\ nome\ invertido\r\n\ @return\ sInv\ nome\ invertido\r\n
+comment5.params=
+comment5.target=java.lang.String\ getNomeBiblio()
+comment5.text=\r\n\ Retorna\ nome\ bibliografico\r\n\ @return\ sBib\ nome\ bibliografico\r\n
+comment6.params=s
+comment6.target=boolean\ ePreposicao(java.lang.String)
+comment6.text=\r\n\ Verifica\ se\ string\ eh\ uma\ "preposicao"\r\n\ @param\ s\ string\ a\ ser\ verificada\r\n\ @return\ true\ eh\ preposicao\ false\ nao\ eh\ preposicao\r\n
+numComments=7

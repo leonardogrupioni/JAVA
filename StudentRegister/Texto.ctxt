@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Texto
+comment0.text=\r\n\ Armazena\ um\ texto.\ Inverte\ texto\ e\ limpa\ espa\u00E7os\ extras\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ 2019/02/29\r\n
+comment1.params=txt
+comment1.target=Texto(java.lang.String)
+comment1.text=\ \r\n\ Construtor\:\ armazena\ o\ texto\ e\ limpa\ os\ espa\u00E7os\ excedentes\r\n\ \r\n\ @param\ txt\ String\ com\ o\ texto\ que\ ser\u00E1\ armazenado\r\n
+comment2.params=t
+comment2.target=void\ setTxt(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTxt()
+comment4.params=
+comment4.target=java.lang.String\ inverteTexto()
+comment4.text=\r\n\ Retorna\ um\ texto\ invertido\r\n\ @return\ txtInvertido\ String\ contendo\ o\ texto\ invertido\r\n
+comment5.params=
+comment5.target=int\ getQtdePalavras()
+comment5.text=\r\n\ Retorna\ quantidade\ de\ palavras\ do\ nome\r\n\ @return\ qtd\ numero\ de\ palavras\r\n
+comment6.params=
+comment6.target=void\ limpaBrancos()
+comment6.text=\r\n\ Retira\ espacos\ excedentes\ de\ uma\ string\r\n\ @return\ s\ string\ sem\ espacos\ excedentes\r\n
+numComments=7

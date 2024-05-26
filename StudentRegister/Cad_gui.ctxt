@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cad_gui
+comment1.params=titulo
+comment1.target=Cad_gui(java.lang.String)
+comment1.text=\r\n\ Cad_gui\ Construtor\r\n\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ actionPerformed,\ processa\ os\ eventos\r\n\r\n\ @param\ e\ ActionEvent,\ armazena\ eventos\r\n
+comment3.params=
+comment3.target=void\ limparCampos()
+comment3.text=\r\n\ limparCampos\r\n\r\n
+numComments=4
