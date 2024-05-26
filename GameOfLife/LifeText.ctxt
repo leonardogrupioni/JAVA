@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LifeText
+comment1.params=linhas\ colunas
+comment1.target=LifeText(int,\ int)
+comment2.params=
+comment2.target=void\ entrarDados()
+comment3.params=
+comment3.target=void\ imprimirAmbiente()
+numComments=4

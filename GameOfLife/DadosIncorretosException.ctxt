@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DadosIncorretosException
+comment1.params=
+comment1.target=DadosIncorretosException()
+comment2.params=msg
+comment2.target=DadosIncorretosException(java.lang.String)
+numComments=3

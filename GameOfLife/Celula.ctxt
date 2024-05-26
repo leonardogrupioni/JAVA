@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Celula
+comment1.params=
+comment1.target=Celula()
+comment2.params=
+comment2.target=boolean\ getValorCelula()
+comment3.params=valorCelula
+comment3.target=void\ setValorCelula(boolean)
+comment3.text=\r\n\ setValorCelula\r\n\r\n\ parametros\:\r\n\ \ entrada\:\ \ \ \ int\ valorCelula\:\ false\ -\ Morta,\ true\ -\ Viva\r\n\ \ saida\:\r\n\r\n\ retorno\:\r\n
+numComments=4
