@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Representa\ um,a\ pessoa.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 27/03/2023\r\n
+comment1.params=nome\ idade
+comment1.target=Pessoa(java.lang.String,\ int)
+comment1.text=\r\n\ Pessoa\ chamado\ para\ instanciar\ uma\ pessoa\r\n\r\n\ @param\ nome\ String,\ nome\ da\ pessoa\r\n\ @param\ idade\ int,\ idade\ da\ pessoa\r\n
+comment2.params=nome
+comment2.target=void\ setNome(NomePessoa)
+comment2.text=\r\n\ setNome\ -\ atualiza\ nome\r\n\r\n\ @param\ nome\ NomePessoa,\ objeto\ da\ classe\ NomePessoa\r\n
+comment3.params=idade
+comment3.target=void\ setIdade(int)
+comment3.text=\r\n\ setIdade\ -\ atualiza\ idade\r\n\r\n\ @param\ idade\ int,\ idade\ da\ pessoa\r\n
+comment4.params=
+comment4.target=NomePessoa\ getNome()
+comment4.text=\r\n\ getNome\ -\ retorna\ nome\r\n\r\n\ @return\ nome\ da\ pessoa,\ Objeto\ da\ classe\ NomePessoa\r\n
+comment5.params=
+comment5.target=int\ getIdade()
+comment5.text=\r\n\ getIdade\ -\ retorna\ a\ idade\r\n\r\n\ @return\ int,\ idade\ da\ pessoas\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ -\ imprime\ os\ dados\ da\ pessoa\r\n\r\n\ @return\ String,\ dados\ da\ pessoa\r\n
+numComments=7
