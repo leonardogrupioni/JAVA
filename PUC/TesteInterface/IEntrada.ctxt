@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IEntrada
+comment0.text=\r\n\ IEntrada\ interface\ para\ entrada\ de\ dados\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 03/04/2023\r\n
+comment1.params=
+comment1.target=java.lang.String\ lerNome()
+comment2.params=
+comment2.target=int\ lerIdade()
+comment3.params=
+comment3.target=float\ lerNota()
+numComments=4

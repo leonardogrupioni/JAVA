@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NumeroNegativoException
+comment0.text=\r\n\ class\ NumeroNegativoException\ -\ exemplo\ de\ cria\u00E7\u00E3o\ de\ exception\r\n
+comment1.params=
+comment1.target=NumeroNegativoException()
+comment1.text=\r\n\ NumeroNegativoException\ Construtor\r\n\r\n
+comment2.params=msg
+comment2.target=NumeroNegativoException(java.lang.String)
+comment2.text=\r\n\ NumeroNegativoException\ Construtor\r\n\r\n\ @param\ msg,\ String\ mensagem\ a\ ser\ emitida\r\n
+numComments=3

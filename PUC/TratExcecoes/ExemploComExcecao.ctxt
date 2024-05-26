@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExemploComExcecao
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ args\r\n
+comment2.params=x
+comment2.target=void\ calculaAlgo(int)
+comment2.text=\r\n\ calculaAlgo\r\n\r\n\ @param\ x\ int\ valor\ de\ entrada\r\n
+numComments=3

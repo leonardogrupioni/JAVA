@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EntradaGui
+comment0.text=\r\n\ Entrada\ de\ dados\ (grafica).\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 03/04/2023\r\n
+comment1.params=
+comment1.target=java.lang.String\ lerNome()
+comment1.text=\r\n\ lerNome\ -\ entrada\ de\ nome\ (grafica)\r\n\r\n\ @return\ String,\ nome\ fornecido\r\n
+comment2.params=
+comment2.target=int\ lerIdade()
+comment2.text=\r\n\ lerIdade\ -\ entrada\ de\ idade\ (grafica)\r\n\r\n\ @return\ int,\ idade\ fornecida\r\n
+comment3.params=
+comment3.target=float\ lerNota()
+comment3.text=\r\n\ lerNota\ -\ entrada\ de\ nota\ (grafica)\r\n\r\n\ @return\ float,\ nota\ fornecida\r\n
+numComments=4
