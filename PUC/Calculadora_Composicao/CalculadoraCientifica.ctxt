@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CalculadoraCientifica
+comment0.text=\r\n\ Calculadora\ cientifica\ composta\ por\ Calculadora\ basica\r\n\ Implementa\ novas\ opera\u00E7\u00F5es\ e\ as\ 5\ opera\u00E7oes\ basicas\ \r\n\ (+,\ -,\ *,\ /,\ %).\r\n\ \r\n\ @author\ Prof.\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ (20190301)\r\n
+comment1.params=operador\ operando
+comment1.target=CalculadoraCientifica(java.lang.String,\ double)
+comment1.text=\r\n\ CalculadorCientifica\ \r\n\ \ \ \ \ \ construtor\ para\ as\ operacoes\ avancadas\r\n\r\n\ @param\ operador\ String\:\ "sqrt",\ "inverso",\ "seno",\ "fatorial"\r\n\ @param\ operando\ double\:\ valor\ onde\ o\ operador\ sera\ aplicado\r\n
+comment2.params=operando1\ operador\ operando2
+comment2.target=CalculadoraCientifica(double,\ java.lang.String,\ double)
+comment2.text=\r\n\ CalculadorCientifica\ \r\n\ \ \ \ \ \ construtor\ para\ as\ operacoes\ basicas\r\n\r\n\ @param\ operando1\ double\:\ operando\ 1\r\n\ @param\ operador\ String\:\ "+",\ "-",\ "*",\ "/",\ "%"\r\n\ @param\ operando2\ double\:\ operando\ 2\r\n
+comment3.params=
+comment3.target=double\ calcular()
+comment3.text=\r\n\ M\u00E9todo\ calcular\ \r\n\ \ \ \ \ \ Calcula\ o\ resultado\ das\ operacoes\ da\ calculadora\r\n\r\n\ @return\ O\ resultado\ da\ expressao\r\n
+comment4.params=n
+comment4.target=long\ fatorial(long)
+comment4.text=\r\n\ M\u00E9todo\ fatorial\:\ calcula\ o\ fatorial\ de\ um\ numero\ (parametro)\r\n\r\n\ @param\ n\ long\ numero\ no\ qual\ sera\ calculado\ o\ fatorial\r\n\ @return\ r\ long\ fatorial\ do\ numero\ (parametro)\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ M\u00E9todo\ toString\r\n\r\n\ @return\ String\ representando\ uma\ opera\u00E7ao\ basica\ ou\ uma\ operacao\ avancada\r\n
+numComments=6

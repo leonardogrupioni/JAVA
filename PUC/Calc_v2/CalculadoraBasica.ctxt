@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalculadoraBasica
+comment0.text=\r\n\ Calculadora\ de\ 4\ operacoes\ basicas.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 05/03/2023\r\n
+comment1.params=opnd1\ oper\ opnd2
+comment1.target=double\ calcular(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ calcular\r\n\r\n\ @param\ opnd1\ double\ operando1\r\n\ @param\ oper\ String\ operador\r\n\ @param\ opnd2\ double\ operando2\r\n\ @return\ double\ valor\ da\ operacao\r\n
+numComments=2
