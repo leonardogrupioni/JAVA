@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EntradaGUI
+comment0.text=\r\n\ EntradaGUI\ para\ entrada\ de\ dados\ (grafica),\ com\ JOptionPane\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Igor\ Matos,\ Leonardo\ Grupioni\ \r\n\ @version\ v2.0\ 11/04/2023\r\n
+comment1.params=msg
+comment1.target=java.lang.String\ receberString(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ receberString\ -\ Entrada\ grafica\r\n\r\n\ @param\ msg\ String,\ mensagem\ que\ aparece\ na\ interface\r\n\ @return\ d_string,\ os\ dados\ fornecidos\r\n
+comment2.params=msg
+comment2.target=void\ imprimirMsg(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ imprimirMsg\ -\ Saida\ grafica\ \r\n\r\n\ @param\ msg\ String,\ mensagem\ que\ aparece\ na\ interface\r\n
+comment3.params=relatorio
+comment3.target=void\ imprimirRelatorio(java.lang.String)
+numComments=4

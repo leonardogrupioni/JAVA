@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Utils
+comment0.text=\r\n\ Metodos\ utilitarios.\r\n\ \r\n\ @author\ Julio\ Arakaki\ +\ Grupo\r\n\ @version\ 05/03/2023\r\n
+comment1.params=str
+comment1.target=boolean\ validarOperando(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ validarOperando\ -\ verifica\ se\ a\ string\ de\ entrada\ eh\ numerica\r\n\r\n\ @param\ str\ string\ de\ entrada\r\n\ @return\ false\ se\ existir\ algum\ caracter\ diferente\ de\ numeros\ e\ \r\n\ \ \ \ \ \ \ \ \ true\ se\ for\ somente\ numeros\r\n
+comment2.params=op
+comment2.target=boolean\ validarOperador(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ validarOperador\ -\ verifica\ se\ o\ operadoe\ e\ valido\r\n\r\n\ @param\ op\ String\ contendo\ o\ operador\r\n\ @return\ false\ se\ for\ diferente\ de\ (+,-,x,/)\ e\ true\ caso\ contrario\r\n
+numComments=3

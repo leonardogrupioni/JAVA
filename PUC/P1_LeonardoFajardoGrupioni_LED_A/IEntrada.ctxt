@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IEntrada
+comment0.text=\r\n\ IEntrada\ \u00E9\ a\ interface\ para\ entrada\ e\ saida\ de\ dados,\ que\ contem\ a\ \r\n\ assinatura\ dos\ metodos\ contidos\ nos\ modelos\ de\ Console\ ou\ GUI\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Igor\ Matos,\ Leonardo\ Grupioni\ \r\n\ @version\ v2.0\ 11/04/2023\r\n
+comment1.params=msg
+comment1.target=java.lang.String\ receberString(java.lang.String)
+comment2.params=msg
+comment2.target=void\ imprimirMsg(java.lang.String)
+comment3.params=relatorio
+comment3.target=void\ imprimirRelatorio(java.lang.String)
+numComments=4

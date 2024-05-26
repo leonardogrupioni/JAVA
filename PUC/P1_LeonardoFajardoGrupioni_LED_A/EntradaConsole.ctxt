@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EntradaConsole
+comment0.text=\r\n\ EntradaConsole\ para\ entrada\ de\ dados\ via\ painel\ de\ (Texto)\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Igor\ Matos,\ Leonardo\ Grupioni\ \r\n\ @version\ v2.0\ 11/04/2023\r\n
+comment1.params=msg
+comment1.target=java.lang.String\ receberString(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ receberString\ -\ entrada\ console\r\n\r\n\ @param\ msg\ String,\ mensagem\ que\ aparece\ na\ interface\r\n\ @return\ entrada\ String,\ os\ dados\ fornecidos\ pelo\ usuario\ (entrada)\ \r\n
+comment2.params=msg
+comment2.target=void\ imprimirMsg(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ imprimirMsg\ -\ saida\ console\r\n\r\n\ @param\ msg\ String,\ mensagem\ que\ aparece\ no\ console\r\n
+comment3.params=relatorio
+comment3.target=void\ imprimirRelatorio(java.lang.String)
+numComments=4
